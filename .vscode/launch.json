@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Lox",
+      "request": "launch",
+      "mainClass": "com.interpreter.lox.Lox",
+      "projectName": "craftinginterpreters_pratice_f5fb54c0"
+    },
+    {
+      "type": "java",
+      "name": "Attack to Lox",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": 5505
+    }
+  ]
+}
