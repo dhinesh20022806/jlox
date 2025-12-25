@@ -1,5 +1,5 @@
-SRC = com/interpreter/lox
-OUT = out
+SRC = src/com/interpreter/lox
+OUT = src/out
 
 MAIN = com.interpreter.lox.Lox
 
